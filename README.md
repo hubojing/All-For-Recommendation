@@ -75,3 +75,25 @@ CCF(人工智能)A类会议
 # Paper论文
 - Goldberg D, Nichols D, Oki B M, et al. Using collaborative filtering to weave an information tapestry[J]. Communications of the ACM, 1992, 35(12): 61-70.  
 [PDF](https://dl.acm.org/doi/pdf/10.1145/138859.138867)
+
+# Datasets数据集
+- MovieLens
+https://grouplens.org/datasets/movielens/
+
+- Book-Crossings
+http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+
+- Last.fm
+https://grouplens.org/datasets/hetrec-2011/
+
+- Amazon product data
+https://jmcauley.ucsd.edu/data/amazon/
+
+- googlelocal
+http://jmcauley.ucsd.edu/data/googlelocal/
+
+- Yelp
+https://www.yelp.com/dataset
+
+- SNAP
+https://snap.stanford.edu/data/
