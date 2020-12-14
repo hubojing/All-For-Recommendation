@@ -97,3 +97,6 @@ https://www.yelp.com/dataset
 
 - SNAP
 https://snap.stanford.edu/data/
+
+- criteo
+http://labs.criteo.com/2014/02/download-dataset/
