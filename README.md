@@ -76,6 +76,18 @@ CCF(人工智能)A类会议
 - Goldberg D, Nichols D, Oki B M, et al. Using collaborative filtering to weave an information tapestry[J]. Communications of the ACM, 1992, 35(12): 61-70.  
 [PDF](https://dl.acm.org/doi/pdf/10.1145/138859.138867)
 
+- Covington P, Adams J, Sargin E. Deep neural networks for youtube recommendations[C]//Proceedings of the 10th ACM conference on recommender systems. 2016: 191-198.
+[PDF](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190)
+
+- Linden G, Smith B, York J. Amazon. com recommendations: Item-to-item collaborative filtering[J]. IEEE Internet computing, 2003, 7(1): 76-80.
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1167344)
+
+- Koren Y, Bell R, Volinsky C. Matrix factorization techniques for recommender systems[J]. Computer, 2009, 42(8): 30-37.
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)
+
+- Rendle S. Factorization machines[C]//2010 IEEE International Conference on Data Mining. IEEE, 2010: 995-1000.
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5694074)
+
 # Datasets数据集
 - MovieLens
 https://grouplens.org/datasets/movielens/
