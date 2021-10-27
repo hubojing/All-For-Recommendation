@@ -529,3 +529,13 @@ https://snap.stanford.edu/data/
 
 - criteo
 http://labs.criteo.com/2014/02/download-dataset/
+
+# 其它资源
+- 推荐系统项目
+https://github.com/hubojing/Recommendation-Systems
+
+- 推荐系统领域经典论文代码复现
+https://github.com/hubojing/Code-For-Recommendation-Paper
+
+- 兴趣点（POI）推荐
+https://github.com/hubojing/POI-Recommendation
