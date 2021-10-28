@@ -92,6 +92,18 @@ CCF(人工智能)A类会议
 由于篇幅过大，转移至
 https://github.com/hubojing/All-For-Recommendation/blob/main/FrontierPaper.md
 
+# 综述
+- A Survey on Session-based Recommender Systems
+- A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation
+- A Recommendation Systems for Tourism Based on Social Networks: A Survey
+- Research Commentary on Recommendations with Side Information: A Survey and Research Directions
+- A Survey on Conversational Recommender Systems
+- Explainable Recommendation: A Survey and New Perspectives
+- Sequential Recommender Systems: Challenges, Progress and Prospects
+- A Survey on Knowledge Graph-Based Recommender Systems
+- Deep Learning on Knowledge Graph for Recommender System: A Survey
+- A survey on group recommender systems
+
 # Datasets数据集
 - MovieLens
 https://grouplens.org/datasets/movielens/
